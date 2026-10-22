@@ -76,7 +76,7 @@ Aspiring researcher focused on bridging theoretical and empirical approaches to 
   <div><em>Under guidance of Profs. Hari Sundaram, Karrie Karahalios and Ph.D. Candidate Ti-Chung Cheng</em></div>
 </div>
 
-- [[Poster]](https://ci.acm.org/2025/wp-content/uploads/102-Midha.pdf) Understanding Quadratic Survey Results: Interactive Visualization for Collective Insights.<br>
+- [[Poster]](https://ci.acm.org/2025/program/) Understanding Quadratic Survey Results: Interactive Visualization for Collective Insights.<br>
   _Pranay Midha, Ti-Chung Cheng, Hari Sundaram, Karrie Karahalios._<br>
   ACM Collective Intelligence Conference, CI ’25 (Demos and Posters Track).
 - [In preparation] Small Group Deliberation with Quadratic Survey.<br>
