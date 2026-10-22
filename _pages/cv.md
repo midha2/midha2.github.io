@@ -34,10 +34,6 @@ _styles: >
 
 </div>
 
-## Research Interest
-
-Aspiring researcher focused on bridging theoretical and empirical approaches to evaluate and advance decision-making in human-computer interaction and explainable AI.
-
 ## Education
 
 <div class="cv-entry">
