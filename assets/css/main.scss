@@ -1,6 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 /* Built-in Sass modules you’ll likely use across partials */
@@ -13,7 +14,7 @@
 // The theme uses $purple-color as the light-mode accent and $cyan-color as the dark-mode accent;
 // both are set to denim blues taken from the profile photo.
 @use "variables" with (
-  $max-content-width: {{ site.max_width | default:  "930px" }},
+  $max-content-width: {{site.max_width | default: "930px"}},
   $purple-color: #2e5f8a,
   $cyan-color: #5f8fc4
 );
