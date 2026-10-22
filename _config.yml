@@ -5,8 +5,7 @@
 title: blank
 first_name: Pranay
 last_name: Midha
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -248,6 +247,8 @@ exclude:
   - _pages/dropdown.md
   - _pages/books.md
   - _books/
+  - _pages/news.md
+  - _news/
   - purgecss.config.js
   - README.md
   - readme_preview/
