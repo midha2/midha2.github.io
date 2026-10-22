@@ -15,7 +15,7 @@ _styles: >
   .publications h3 { font-size: 1.3rem; margin-top: 1.25rem; }
 ---
 
-[midha2@illinois.edu](mailto:midha2@illinois.edu)
+midha2 [at] illinois [dot] edu
 
 ## Publications
 
